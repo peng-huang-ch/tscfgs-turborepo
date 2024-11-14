@@ -1,0 +1,3 @@
+{
+  "extends": ["@tscfgs/eslint-config"]
+}

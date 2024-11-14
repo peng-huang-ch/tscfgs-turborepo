@@ -1,5 +1,6 @@
 {
   "name": "tscfgs-monorepo",
+  "private": true,
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
@@ -16,8 +17,8 @@
     "prettier": "^3.2.5",
     "turbo": "^2.2.3"
   },
-  "packageManager": "pnpm@8.15.6",
+  "packageManager": "pnpm@9.7.0",
   "engines": {
-    "node": ">=18"
+    "node": ">=20"
   }
 }
